@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PiKLoops
+Exec=pikloops
+Icon=pikloops
+Type=Application
+StartupNotify=true
+Terminal=false
+Categories=Education;Electronics
+Comment=Code generator for PIC delays
+Comment[de]=PIC Verzögerungs Berechner
+Comment[es]=Cálculo del retraso del PIC
+Comment[fr]=Générateur de code de temporisations pour les PIC
